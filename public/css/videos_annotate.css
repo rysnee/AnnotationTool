@@ -1,0 +1,29 @@
+.img{
+	position: absolute;
+	z-index: 1;
+	width: 700px;
+}
+
+.container{
+    position: relative;
+}
+
+.canvas{
+    position: relative;
+    z-index: 20;
+}
+
+.name_image{
+	text-align: center;
+	font-size: medium;
+}
+
+.input{
+	display: none;
+}
+
+.frame_index{
+	text-align: center;
+	padding: 20px;
+}
+
